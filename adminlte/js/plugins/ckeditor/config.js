@@ -37,11 +37,12 @@ CKEDITOR.editorConfig = function( config ) {
 	//config.removeDialogTabs = 'image:advanced;link:advanced';
 
 	// 图片上传配置
-	config.filebrowserImageUploadUrl = 'upload.php';
+	//config.filebrowserImageUploadUrl = 'upload.php';
 	// flash上传配置
-	config.filebrowserFlashUploadUrl = 'uploadf.php';
+	//config.filebrowserFlashUploadUrl = 'uploadf.php';
 
 	// 图片浏览配置
-	//config.filebrowserUploadUrl = 'upload.php?type=Image';
-	//config.filebrowserImageBrowseUrl = 'browerServer.php?type=image';
+	config.filebrowserBrowseUrl = '/adminlte/js/plugins/ckfinder/ckfinder.html';
+	config.filebrowserImageBrowseUrl = '/adminlte/js/plugins/ckfinder/ckfinder.html?Type=Images';
+	config.filebrowserFlashBrowseUrl = '/adminlte/js/plugins/ckfinder/ckfinder.html?Type=Flash';
 };

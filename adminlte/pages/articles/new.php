@@ -503,8 +503,8 @@ $selector = $category->getCategorySelectorData();
 <script src="../../js/AdminLTE/app.js" type="text/javascript"></script>
 <!-- CK Editor -->
 <script src="../../js/plugins/ckeditor/ckeditor.js" type="text/javascript"></script>
-<!-- Bootstrap WYSIHTML5 -->
-<script src="../../js/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" type="text/javascript"></script>
+<script src="../../js/plugins/ckfinder/ckfinder.js" type="text/javascript"></script>
+
 <script type="text/javascript">
     $(function() {
         // Replace the <textarea id="editor1"> with a CKEditor
