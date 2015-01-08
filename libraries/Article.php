@@ -39,4 +39,14 @@ class Article {
         return $results;
     }
 
+    public function getArticleCount($publish = true){
+        $count = 0;
+        if($publish){
+            $this->db->where("publish", 1);
+            $results = $this->db->get("article");
+            $count = $this->db->count;
+        }
+        return $count;
+    }
+
 }

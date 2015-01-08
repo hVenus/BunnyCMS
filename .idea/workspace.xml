@@ -2,9 +2,638 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c183467b-6bdf-47fd-90e0-b137c03bd6e6" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\ckfinder.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\ckfinder.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\ckfinder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\ckfinder_v1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\config.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\ckfinder_php5.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\connector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\constants.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\bg.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\ca.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\cs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\cy.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\da.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\de.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\el.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\en.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\eo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\es-mx.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\es.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\et.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\fa.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\fi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\fr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\gu.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\he.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\hi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\hr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\hu.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\it.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\ja.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\lt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\lv.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\nb.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\nl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\nn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\no.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\pl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\pt-br.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\ro.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\ru.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\sk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\sl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\sr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\sv.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\tr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\vi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\zh-cn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\lang\zh-tw.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\CommandHandlerBase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\CopyFiles.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\CreateFolder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\DeleteFiles.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\DeleteFolder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\DownloadFile.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\FileUpload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\GetFiles.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\GetFolders.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\Init.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\LoadCookies.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\MoveFiles.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\QuickUpload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\RenameFile.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\RenameFolder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\Thumbnail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\CommandHandler\XmlCommandHandlerBase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\AccessControlConfig.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\Config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\Connector.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\Factory.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\FolderHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\Hooks.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\ImagesConfig.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\Registry.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\ResourceTypeConfig.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\ThumbnailsConfig.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Core\Xml.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\ErrorHandler\Base.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\ErrorHandler\FileUpload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\ErrorHandler\Http.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\ErrorHandler\QuickUpload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Utils\FileSystem.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Utils\Misc.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Utils\Security.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\core\connector\php\php5\Utils\XmlNode.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\014.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\015.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\cs\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\014.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\015.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\en\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\001.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\002.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\003.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\004.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\005.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\006.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\007.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\008.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\009.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\010.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\011.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\012.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\013.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\014.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\015.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\016.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\017.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\018.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\019.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\images\020.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es-mx\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\001.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\002.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\003.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\004.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\005.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\006.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\007.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\008.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\009.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\010.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\011.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\012.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\013.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\014.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\015.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\016.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\017.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\018.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\019.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\images\020.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\es\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\001.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\002.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\003.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\004.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\005.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\006.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\007.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\008.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\009.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\010.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\011.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\012.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\013.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\014.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\015.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\016.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\017.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\018.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\019.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\images\020.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\fi\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\002.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\003.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_basket_clear.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_basket_drag.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_basket_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_basket_file_menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_basket_remove.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_already_exists.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_copied.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_display_01.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_display_02.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_display_03.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_display_04.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_drag_copy.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_drag_move.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_moved.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_pane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_rename.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_resize.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_resize_both.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_resize_new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_resize_overwrite.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_resize_resized.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_resize_thumbnails.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_select_hovered.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_select_selected.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_select_unselected.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_view_list.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_file_view_thumbnails.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_collapse.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_copied_from_basket.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_delete.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_expand.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_menu.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_moved_from_basket.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_new.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_pane.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_rename.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_folder_select.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_interface.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_menu_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_menu_arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_resize_lock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_resize_reset.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_resize_unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_settings.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_status_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_status_file.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_status_folder.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_toolbar.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_toolbar_help.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_toolbar_refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_upload_01.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_upload_03.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_upload_04.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_upload_09.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\images\CKFinder_upload_10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\other\help.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\files\other\help.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\001.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\002.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\003.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\004.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\005.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\006.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\007.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\008.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\009.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\010.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\011.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\012.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\013.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\014.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\015.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\016.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\017.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\018.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\019.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\images\020.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\lt\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\001.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\002.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\003.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\004.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\005.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\007.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\008.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\009.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\010.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\011.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\012.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\013.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\014.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\015.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\header.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\license.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\suggestions.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\files\toc.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\help\pl\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\install.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\_translationstatus.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\bg.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\ca.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\cs.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\cy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\da.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\de.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\el.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\eo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\es-mx.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\es.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\et.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\fa.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\fi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\fr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\gu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\he.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\hi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\hr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\hu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\it.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\ja.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\lt.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\lv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\nb.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\nl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\nn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\no.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\ro.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\ru.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\sk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\sl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\sr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\sv.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\tr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\vi.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\lang\zh-tw.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\dummy\lang\en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\dummy\lang\pl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\dummy\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\addon\mode\overlay.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\lib\codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\lib\codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\clike\clike.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\css\css.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\htmlmixed\htmlmixed.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\javascript\javascript.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\markdown\markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\perl\perl.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\php\php.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\python\python.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\rst\rst.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\ruby\ruby.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\sass\sass.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\sql\sql.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\stex\stex.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\codemirror\mode\xml\xml.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\fileeditor\plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\flashupload\Uploader.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\flashupload\flash\Uploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\border.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\controls.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderBottomCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderBottomLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderBottomRight.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderMiddleLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderMiddleRight.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderTopCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderTopLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\ie6\borderTopRight.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\loading_background.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\images\overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\jquery.colorbox-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\gallery\colorbox\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\imageresize\images\mini.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\imageresize\plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\imageresize\plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\watermark\logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\watermark\plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\zip\images\zip.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\plugins\zip\plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\app.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\host.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\ckffolder.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\ckffolderopened.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\ckfminus.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\ckfnothumb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\ckfplus.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\ai.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\avi.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\bmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\default.icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\dll.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\docx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\fla.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\gif.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\js.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\mdb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\ogg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\pptx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\rdp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\swf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\swt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\vsd.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\xlsx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\xml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\16\zip.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\ai.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\avi.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\bmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\default.icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\dll.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\docx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\fla.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\gif.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\js.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\mdb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\ogg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\ogg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\pptx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\rdp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\swf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\swt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\vsd.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\xlsx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\xml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\icons\32\zip.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\loaders\16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\loaders\32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\sprites_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\add.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\clear_basket.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\download.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\help.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\maximize.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\refresh.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\settings.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\images\toolbar\view.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\richcombo.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\skin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\kama\uipanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\app.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\host.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\ckffolder.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\ckffolderopened.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\ckfminus.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\ckfnothumb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\ckfplus.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\dialog_sides.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\dialog_sides.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\dialog_sides_rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\ai.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\avi.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\bmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\default.icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\dll.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\docx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\fla.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\gif.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\js.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\mdb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\pptx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\rdp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\swf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\swt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\vsd.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\xlsx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\xml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\16\zip.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\ai.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\avi.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\bmp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\cs.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\default.icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\dll.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\docx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\fla.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\gif.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\js.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\mdb.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\pptx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\rdp.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\swf.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\swt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\vsd.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\xlsx.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\xml.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\icons\32\zip.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\loaders\16x16.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\loaders\32x32.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\sprites_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\add.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\clear_basket.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\download.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\help.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\maximize.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\refresh.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\settings.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar\view.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\images\toolbar_start.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\richcombo.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\skin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\skins\v1\uipanel.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\translations.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\lihua\adminlte\js\plugins\ckfinder\userfiles\.htaccess" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/Article.php" afterPath="$PROJECT_DIR$/libraries/Article.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libraries/Category.php" afterPath="$PROJECT_DIR$/libraries/Category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/articles/add.php" afterPath="$PROJECT_DIR$/adminlte/pages/articles/add.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/js/plugins/ckeditor/config.js" afterPath="$PROJECT_DIR$/adminlte/js/plugins/ckeditor/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/articles/edit.php" afterPath="$PROJECT_DIR$/adminlte/pages/articles/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/categories/edit.php" afterPath="$PROJECT_DIR$/adminlte/pages/categories/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/index.php" afterPath="$PROJECT_DIR$/adminlte/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/articles/index.php" afterPath="$PROJECT_DIR$/adminlte/pages/articles/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/categories/index.php" afterPath="$PROJECT_DIR$/adminlte/pages/categories/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/articles/new.php" afterPath="$PROJECT_DIR$/adminlte/pages/articles/new.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/categories/new.php" afterPath="$PROJECT_DIR$/adminlte/pages/categories/new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adminlte/pages/articles/update.php" afterPath="$PROJECT_DIR$/adminlte/pages/articles/update.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lihua.iws" />
@@ -29,7 +658,80 @@
     <favorites_list name="lihua" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7654321" vertical-offset="1841" max-vertical-offset="10849">
+              <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+              <folding>
+                <marker date="1420744545580" expanded="true" signature="5139:5150" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5418" max-vertical-offset="38931">
+              <caret line="298" column="67" selection-start-line="298" selection-start-column="67" selection-end-line="298" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/new.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.928572" vertical-offset="7266" max-vertical-offset="9405">
+              <caret line="400" column="78" selection-start-line="400" selection-start-column="78" selection-end-line="400" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.142858" vertical-offset="6985" max-vertical-offset="8626">
+              <caret line="387" column="213" selection-start-line="387" selection-start-column="48" selection-end-line="387" selection-end-column="213" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/new.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.535714" vertical-offset="6897" max-vertical-offset="8474">
+              <caret line="380" column="156" selection-start-line="380" selection-start-column="48" selection-end-line="380" selection-end-column="156" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.428572" vertical-offset="7555" max-vertical-offset="9538">
+              <caret line="413" column="193" selection-start-line="413" selection-start-column="193" selection-end-line="413" selection-end-column="193" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminlte/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-263.2857" vertical-offset="0" max-vertical-offset="9880">
+              <caret line="388" column="65" selection-start-line="388" selection-start-column="65" selection-end-line="388" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,20 +753,12 @@
         <option value="$PROJECT_DIR$/adminlte/pages/forms/general.html" />
         <option value="$PROJECT_DIR$/includes/defines.php" />
         <option value="$PROJECT_DIR$/adminlte/pages/categories/add.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/categories/new.php" />
         <option value="$PROJECT_DIR$/adminlte/pages/error/404.html" />
         <option value="$PROJECT_DIR$/adminlte/pages/categories/update.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/categories/edit.php" />
         <option value="$PROJECT_DIR$/adminlte/js/plugins/ckeditor/plugins/image/dialogs/image.js" />
         <option value="$PROJECT_DIR$/adminlte/pages/articles/publish.php" />
         <option value="$PROJECT_DIR$/adminlte/pages/articles/del.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/articles/add.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/articles/index.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/articles/edit.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/articles/update.php" />
-        <option value="$PROJECT_DIR$/adminlte/pages/categories/index.php" />
         <option value="$PROJECT_DIR$/adminlte/config.php" />
-        <option value="$PROJECT_DIR$/adminlte/index.php" />
         <option value="$PROJECT_DIR$/adminlte/configure.php" />
         <option value="$PROJECT_DIR$/bootstrap.php" />
         <option value="$PROJECT_DIR$/adminlte/pages/articles/upload.php" />
@@ -74,16 +768,25 @@
         <option value="$PROJECT_DIR$/assets/css/public_Commenwcnrw.css" />
         <option value="$PROJECT_DIR$/assets/css/slide_css.css" />
         <option value="$PROJECT_DIR$/admin/1.php" />
-        <option value="$PROJECT_DIR$/assets/css/base.css" />
-        <option value="$PROJECT_DIR$/libraries/Category.php" />
-        <option value="$PROJECT_DIR$/libraries/Article.php" />
         <option value="$PROJECT_DIR$/category.php" />
         <option value="$PROJECT_DIR$/view.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/adminlte/js/plugins/ckfinder/config.js" />
-        <option value="$PROJECT_DIR$/adminlte/pages/articles/new.php" />
-        <option value="$PROJECT_DIR$/adminlte/js/plugins/ckeditor/config.js" />
         <option value="$PROJECT_DIR$/adminlte/js/plugins/ckfinder/config.php" />
+        <option value="$PROJECT_DIR$/adminlte/js/plugins/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/assets/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/adminlte/pages/articles/add.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/articles/update.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/articles/index.php" />
+        <option value="$PROJECT_DIR$/libraries/Article.php" />
+        <option value="$PROJECT_DIR$/adminlte/index.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/categories/index.php" />
+        <option value="$PROJECT_DIR$/libraries/Category.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/categories/new.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/categories/edit.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/articles/new.php" />
+        <option value="$PROJECT_DIR$/adminlte/pages/articles/edit.php" />
+        <option value="$PROJECT_DIR$/assets/css/base.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -148,6 +851,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datepicker" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="adminlte" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -167,6 +916,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lihua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adminlte" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="categories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,98 +960,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="articles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminlte" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminlte" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminlte" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckfinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lihua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminlte" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ckeditor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -340,7 +1019,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -348,7 +1027,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19054441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19054441" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -384,27 +1063,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/adminlte/css/AdminLTE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="64790">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/forms/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5" vertical-offset="12258" max-vertical-offset="13680">
-          <caret line="665" column="46" selection-start-line="656" selection-start-column="40" selection-end-line="665" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/forms/editors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.0" vertical-offset="7540" max-vertical-offset="9101">
-          <caret line="416" column="59" selection-start-line="412" selection-start-column="36" selection-end-line="416" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/defines.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08610272" vertical-offset="0" max-vertical-offset="662">
@@ -447,13 +1105,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/new.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.75" vertical-offset="7939" max-vertical-offset="9956">
-          <caret line="444" column="51" selection-start-line="441" selection-start-column="28" selection-end-line="444" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/add.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.964285" vertical-offset="0" max-vertical-offset="589">
@@ -468,41 +1119,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="10108">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/update.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.464286" vertical-offset="70" max-vertical-offset="760">
           <caret line="25" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/LICENSE.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="24130">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/ckeditor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="17195">
-          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -517,55 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.75" vertical-offset="0" max-vertical-offset="570">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/edit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.964286" vertical-offset="10010" max-vertical-offset="10754">
-          <caret line="543" column="36" selection-start-line="543" selection-start-column="36" selection-end-line="543" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.892858" vertical-offset="0" max-vertical-offset="874">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0292758" vertical-offset="7882" max-vertical-offset="9709">
-          <caret line="450" column="59" selection-start-line="450" selection-start-column="59" selection-end-line="450" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/plugins/image/dialogs/image.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6632201" vertical-offset="178" max-vertical-offset="855">
-          <caret line="36" column="139" selection-start-line="36" selection-start-column="139" selection-end-line="36" selection-end-column="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.028700907" vertical-offset="0" max-vertical-offset="760">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19637462" vertical-offset="136" max-vertical-offset="798">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029275808" vertical-offset="0" max-vertical-offset="11400">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -634,117 +1205,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5418" max-vertical-offset="38931">
-          <caret line="298" column="70" selection-start-line="298" selection-start-column="70" selection-end-line="298" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/libraries/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="627">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029275808" vertical-offset="0" max-vertical-offset="18829">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4018127" vertical-offset="0" max-vertical-offset="662">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/lang/el.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="676">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/lang/de.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="676">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckfinder/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="20.357143" vertical-offset="1539" max-vertical-offset="6270">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckfinder/_samples/ckeditor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1558245" vertical-offset="764" max-vertical-offset="1425">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1408037916000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckfinder/_samples/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.09228442" vertical-offset="61" max-vertical-offset="1178">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckfinder/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35849056" vertical-offset="0" max-vertical-offset="689">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7793904" vertical-offset="280" max-vertical-offset="1026">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74228394" vertical-offset="9912" max-vertical-offset="10583">
-          <caret line="547" column="12" selection-start-line="547" selection-start-column="8" selection-end-line="547" selection-end-column="12" />
-          <folding>
-            <element signature="e#6#209#0#PHP" expanded="true" />
-            <marker date="1420696932359" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1420696932359" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1420696932359" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/new.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32561728" vertical-offset="9403" max-vertical-offset="10678">
-          <caret line="506" column="0" selection-start-line="506" selection-start-column="0" selection-end-line="506" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,16 +1230,179 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ckfinder/ckfinder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="676">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ckfinder/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="689">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ckeditor/samples/sample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.54426706" vertical-offset="375" max-vertical-offset="1064">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/js/plugins/ckeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1121">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ckeditor/samples/plugins/toolbar/toolbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1435186" vertical-offset="741" max-vertical-offset="4522">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ckeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44970414" vertical-offset="0" max-vertical-offset="676">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/forms/advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.206897" vertical-offset="12600" max-vertical-offset="14250">
+          <caret line="676" column="6" selection-start-line="676" selection-start-column="6" selection-end-line="676" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40242058" vertical-offset="0" max-vertical-offset="798">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.642857" vertical-offset="0" max-vertical-offset="1007">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.928572" vertical-offset="5966" max-vertical-offset="9899">
+          <caret line="336" column="16" selection-start-line="336" selection-start-column="16" selection-end-line="336" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0357144" vertical-offset="0" max-vertical-offset="8208">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.327586" vertical-offset="376" max-vertical-offset="1140">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/libraries/Article.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7376543" vertical-offset="225" max-vertical-offset="893">
-          <caret line="37" column="79" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="79" />
+        <state vertical-scroll-proportion="-19.75" vertical-offset="302" max-vertical-offset="1083">
+          <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
           <folding>
-            <marker date="1420587528215" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
-            <marker date="1420587528215" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
-            <marker date="1420587528215" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
-            <marker date="1420587528215" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
-            <marker date="1420587528215" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
+            <marker date="1420740896731" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
+            <marker date="1420740896731" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..article..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.928572" vertical-offset="57" max-vertical-offset="893">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.535714" vertical-offset="6897" max-vertical-offset="8474">
+          <caret line="380" column="156" selection-start-line="380" selection-start-column="48" selection-end-line="380" selection-end-column="156" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.928572" vertical-offset="7266" max-vertical-offset="9405">
+          <caret line="400" column="78" selection-start-line="400" selection-start-column="78" selection-end-line="400" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/categories/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.142858" vertical-offset="6985" max-vertical-offset="8626">
+          <caret line="387" column="213" selection-start-line="387" selection-start-column="48" selection-end-line="387" selection-end-column="213" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/pages/articles/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.428572" vertical-offset="7555" max-vertical-offset="9538">
+          <caret line="413" column="193" selection-start-line="413" selection-start-column="193" selection-end-line="413" selection-end-column="193" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminlte/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-263.2857" vertical-offset="0" max-vertical-offset="9880">
+          <caret line="388" column="65" selection-start-line="388" selection-start-column="65" selection-end-line="388" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5418" max-vertical-offset="38931">
+          <caret line="298" column="67" selection-start-line="298" selection-start-column="67" selection-end-line="298" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7654321" vertical-offset="1841" max-vertical-offset="10849">
+          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+          <folding>
+            <marker date="1420744545580" expanded="true" signature="5139:5150" placeholder="..." />
           </folding>
         </state>
       </provider>

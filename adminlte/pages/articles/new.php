@@ -3,7 +3,7 @@ include("../../../bootstrap.php");
 
 $category = new Category();
 $selector = $category->getCategorySelectorData();
-
+$c = $category->myCategoryTree();
 ?>
 <!DOCTYPE html>
 <html>
@@ -19,15 +19,8 @@ $selector = $category->getCategorySelectorData();
     <link href="../../css/ionicons.min.css" rel="stylesheet" type="text/css" />
     <!-- Theme style -->
     <link href="../../css/AdminLTE.css" rel="stylesheet" type="text/css" />
-    <!-- bootstrap wysihtml5 - text editor -->
-    <link href="../../css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/ckeditor/contents.css" rel="stylesheet" type="text/css" />
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
 </head>
 <body class="skin-blue">
 <!-- header logo: style can be found in header.less -->
@@ -306,7 +299,7 @@ $selector = $category->getCategorySelectorData();
             <!-- sidebar menu: : style can be found in sidebar.less -->
             <ul class="sidebar-menu">
                 <li>
-                    <a href="../../index.html">
+                    <a href="/adminlte">
                         <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                     </a>
                 </li>
@@ -330,85 +323,6 @@ $selector = $category->getCategorySelectorData();
                     <ul class="treeview-menu">
                         <li><a href="/adminlte/pages/articles/"><i class="fa fa-angle-double-right"></i> 所有文章</a></li>
                         <li class="active"><a href="/adminlte/pages/articles/new.php"><i class="fa fa-angle-double-right"></i> 新建</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="../widgets.html">
-                        <i class="fa fa-th"></i> <span>Widgets</span> <small class="badge pull-right bg-green">new</small>
-                    </a>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-bar-chart-o"></i>
-                        <span>Charts</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../charts/morris.html"><i class="fa fa-angle-double-right"></i> Morris</a></li>
-                        <li><a href="../charts/flot.html"><i class="fa fa-angle-double-right"></i> Flot</a></li>
-                        <li><a href="../charts/inline.html"><i class="fa fa-angle-double-right"></i> Inline charts</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-laptop"></i>
-                        <span>UI Elements</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../UI/general.html"><i class="fa fa-angle-double-right"></i> General</a></li>
-                        <li><a href="../UI/icons.html"><i class="fa fa-angle-double-right"></i> Icons</a></li>
-                        <li><a href="../UI/buttons.html"><i class="fa fa-angle-double-right"></i> Buttons</a></li>
-                        <li><a href="../UI/sliders.html"><i class="fa fa-angle-double-right"></i> Sliders</a></li>
-                        <li><a href="../UI/timeline.html"><i class="fa fa-angle-double-right"></i> Timeline</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-edit"></i> <span>Forms</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="general.html"><i class="fa fa-angle-double-right"></i> General Elements</a></li>
-                        <li><a href="advanced.html"><i class="fa fa-angle-double-right"></i> Advanced Elements</a></li>
-                        <li><a href="editors.html"><i class="fa fa-angle-double-right"></i> Editors</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-table"></i> <span>Tables</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../tables/simple.html"><i class="fa fa-angle-double-right"></i> Simple tables</a></li>
-                        <li><a href="../tables/data.html"><i class="fa fa-angle-double-right"></i> Data tables</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="../calendar.html">
-                        <i class="fa fa-calendar"></i> <span>Calendar</span>
-                        <small class="badge pull-right bg-red">3</small>
-                    </a>
-                </li>
-                <li>
-                    <a href="../mailbox.html">
-                        <i class="fa fa-envelope"></i> <span>Mailbox</span>
-                        <small class="badge pull-right bg-yellow">12</small>
-                    </a>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-folder"></i> <span>Examples</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../examples/invoice.html"><i class="fa fa-angle-double-right"></i> Invoice</a></li>
-                        <li><a href="../examples/login.html"><i class="fa fa-angle-double-right"></i> Login</a></li>
-                        <li><a href="../examples/register.html"><i class="fa fa-angle-double-right"></i> Register</a></li>
-                        <li><a href="../examples/lockscreen.html"><i class="fa fa-angle-double-right"></i> Lockscreen</a></li>
-                        <li><a href="../examples/404.html"><i class="fa fa-angle-double-right"></i> 404 Error</a></li>
-                        <li><a href="../examples/500.html"><i class="fa fa-angle-double-right"></i> 500 Error</a></li>
-                        <li><a href="../examples/blank.html"><i class="fa fa-angle-double-right"></i> Blank Page</a></li>
                     </ul>
                 </li>
             </ul>
@@ -458,6 +372,21 @@ $selector = $category->getCategorySelectorData();
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="form-group">
+                                    <label>发布时间</label>
+                                    <div class="row">
+                                        <div class="col-md-2">
+                                            <div class="input-group">
+                                                <div class="input-group-addon">
+                                                    <i class="fa fa-calendar"></i>
+                                                </div>
+                                                <input type="email" class="form-control" id="publish_time" name="publisth_time" placeholder="发布时间" value="<?php echo date("Y-m-d");?>"  onClick="WdatePicker()" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div><!-- /.form group -->
+
                                 <div class="form-group">
                                     <label for="title">标题</label>
                                     <input type="email" class="form-control" id="title" name="title" placeholder="标题">
@@ -468,9 +397,9 @@ $selector = $category->getCategorySelectorData();
                                         <div class="col-md-4">
                                             <select id="category" name="category" class="form-control">
                                                 <option value="0">无</option>
-                                                <?php if(is_array($selector) && count($selector)>0){?>
-                                                    <?php foreach($selector as $s){?>
-                                                        <option value="<?php echo $s['id'];?>"  ><?php echo $s['category'];?></option>
+                                                <?php if(is_array($c) && count($c)>0){?>
+                                                    <?php foreach($c as $s){?>
+                                                        <option value="<?php echo $s['id'];?>"><?php echo str_repeat("-",$s['level'])," ",$s['category'];?></option>
                                                     <?php }?>
                                                 <?php }?>
                                             </select>
@@ -502,8 +431,10 @@ $selector = $category->getCategorySelectorData();
 <!-- AdminLTE App -->
 <script src="../../js/AdminLTE/app.js" type="text/javascript"></script>
 <!-- CK Editor -->
-<script src="../../js/plugins/ckeditor/ckeditor.js" type="text/javascript"></script>
-<script src="../../js/plugins/ckfinder/ckfinder.js" type="text/javascript"></script>
+<script src="/assets/ckeditor/ckeditor.js" type="text/javascript"></script>
+<script src="/assets/ckfinder/ckfinder.js" type="text/javascript"></script>
+
+<script src="/assets/datepicker/WdatePicker.js" type="text/javascript"></script>
 
 <script type="text/javascript">
     $(function() {
@@ -519,6 +450,7 @@ $selector = $category->getCategorySelectorData();
             var category = $("#category").val();
             var publish = $("#publish").val();
             var content = CKEDITOR.instances.editor1.getData();
+            var publish_time = $("#publish_time").val();
 
             console.log(title+"#"+category+"#"+content+"#"+publish);
 
@@ -537,7 +469,8 @@ $selector = $category->getCategorySelectorData();
                     title: title,
                     content: content,
                     category: category,
-                    publish: publish
+                    publish: publish,
+                    publish_time: publish_time
                 },
                 dataType: "json",
                 cache: false,

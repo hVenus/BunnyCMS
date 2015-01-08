@@ -5,12 +5,14 @@ $title = isset($_REQUEST['title'])?$_REQUEST['title']:"";
 $content = isset($_REQUEST['content'])?$_REQUEST['content']:"";
 $category = isset($_REQUEST['category'])?$_REQUEST['category']:0;
 $publish = isset($_REQUEST['publish'])?$_REQUEST['publish']:0;
+$publish_time = isset($_REQUEST['publish_time'])?$_REQUEST['publish_time']:0;
 $log = "N";
 $dc = 0;
 $d = false;
 if(is_numeric($id) && $id>0 && trim($title)!="" && trim($content)!=""){
     $db = new MysqliDb($MYSQL_SERVER, $MYSQL_USER, $MYSQL_PASS, $MYSQL_DB);
     $db->setPrefix ('');
+
     $data = Array (
         "content" => $content,
         "title" => $title,
@@ -19,6 +21,11 @@ if(is_numeric($id) && $id>0 && trim($title)!="" && trim($content)!=""){
         "update_uid" => $_SESSION["uid"],
         "publish" => $publish
     );
+
+    if($publish_time!=0){
+        $data['create_time'] = strtotime($publish_time);
+    }
+
     $db->where ('id', $id);
     $d = $db->update('article', $data);
     if($d)

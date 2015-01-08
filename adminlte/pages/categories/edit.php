@@ -8,7 +8,8 @@ if($id==0){
 
 $category = new Category();
 $selector = $category->getCategorySelectorData($id);
-$category = $category->getCategory($id);
+$cate = $category->getCategory($id);
+$c = $category->myCategoryTree();
 ?>
 <!DOCTYPE html>
 <html>
@@ -313,7 +314,7 @@ $category = $category->getCategory($id);
             <!-- sidebar menu: : style can be found in sidebar.less -->
             <ul class="sidebar-menu">
                 <li>
-                    <a href="../../index.html">
+                    <a href="/adminlte">
                         <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                     </a>
                 </li>
@@ -337,85 +338,6 @@ $category = $category->getCategory($id);
                     <ul class="treeview-menu">
                         <li><a href="/adminlte/pages/articles/"><i class="fa fa-angle-double-right"></i> 所有文章</a></li>
                         <li><a href="/adminlte/pages/articles/new.php"><i class="fa fa-angle-double-right"></i> 新建</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="../widgets.html">
-                        <i class="fa fa-th"></i> <span>Widgets</span> <small class="badge pull-right bg-green">new</small>
-                    </a>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-bar-chart-o"></i>
-                        <span>Charts</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../charts/morris.html"><i class="fa fa-angle-double-right"></i> Morris</a></li>
-                        <li><a href="../charts/flot.html"><i class="fa fa-angle-double-right"></i> Flot</a></li>
-                        <li><a href="../charts/inline.html"><i class="fa fa-angle-double-right"></i> Inline charts</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-laptop"></i>
-                        <span>UI Elements</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../UI/general.html"><i class="fa fa-angle-double-right"></i> General</a></li>
-                        <li><a href="../UI/icons.html"><i class="fa fa-angle-double-right"></i> Icons</a></li>
-                        <li><a href="../UI/buttons.html"><i class="fa fa-angle-double-right"></i> Buttons</a></li>
-                        <li><a href="../UI/sliders.html"><i class="fa fa-angle-double-right"></i> Sliders</a></li>
-                        <li><a href="../UI/timeline.html"><i class="fa fa-angle-double-right"></i> Timeline</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-edit"></i> <span>Forms</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="general.html"><i class="fa fa-angle-double-right"></i> General Elements</a></li>
-                        <li><a href="advanced.html"><i class="fa fa-angle-double-right"></i> Advanced Elements</a></li>
-                        <li><a href="editors.html"><i class="fa fa-angle-double-right"></i> Editors</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-table"></i> <span>Tables</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../tables/simple.html"><i class="fa fa-angle-double-right"></i> Simple tables</a></li>
-                        <li><a href="../tables/data.html"><i class="fa fa-angle-double-right"></i> Data tables</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="../calendar.html">
-                        <i class="fa fa-calendar"></i> <span>Calendar</span>
-                        <small class="badge pull-right bg-red">3</small>
-                    </a>
-                </li>
-                <li>
-                    <a href="../mailbox.html">
-                        <i class="fa fa-envelope"></i> <span>Mailbox</span>
-                        <small class="badge pull-right bg-yellow">12</small>
-                    </a>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="fa fa-folder"></i> <span>Examples</span>
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="../examples/invoice.html"><i class="fa fa-angle-double-right"></i> Invoice</a></li>
-                        <li><a href="../examples/login.html"><i class="fa fa-angle-double-right"></i> Login</a></li>
-                        <li><a href="../examples/register.html"><i class="fa fa-angle-double-right"></i> Register</a></li>
-                        <li><a href="../examples/lockscreen.html"><i class="fa fa-angle-double-right"></i> Lockscreen</a></li>
-                        <li><a href="../examples/404.html"><i class="fa fa-angle-double-right"></i> 404 Error</a></li>
-                        <li><a href="../examples/500.html"><i class="fa fa-angle-double-right"></i> 500 Error</a></li>
-                        <li><a href="../examples/blank.html"><i class="fa fa-angle-double-right"></i> Blank Page</a></li>
                     </ul>
                 </li>
             </ul>
@@ -455,15 +377,15 @@ $category = $category->getCategory($id);
                             <form>
                                 <div class="form-group">
                                     <label for="category_name">分类名</label>
-                                    <input type="email" class="form-control" id="category_name" placeholder="分类的名称" value="<?php echo $category['category'];?>">
+                                    <input type="email" class="form-control" id="category_name" placeholder="分类的名称" value="<?php echo $cate['category'];?>">
                                 </div>
                                 <div class="form-group">
                                     <label for="parent_category">父分类</label>
                                     <select id="parent_category" name="parent_category" class="form-control">
                                         <option value="0">无</option>
-                                        <?php if(is_array($selector) && count($selector)>0){?>
-                                            <?php foreach($selector as $s){?>
-                                                <option value="<?php echo $s['id'];?>" <?php if($category['parent']==$s['id']){echo "selected";}?> ><?php echo $s['category'];?></option>
+                                        <?php if(is_array($c) && count($c)>0){?>
+                                            <?php foreach($c as $s){?>
+                                                <option value="<?php echo $s['id'];?>" <?php if($cate['parent']==$s['id']){echo "selected";}?> ><?php echo str_repeat("-",$s['level'])," ",$s['category'];?></option>
                                             <?php }?>
                                         <?php }?>
                                     </select>

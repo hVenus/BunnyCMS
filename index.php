@@ -108,10 +108,29 @@ $shbk = $article->getArticleByCategory($in, 17);
 
 <BODY>
 <div class=wrapper>
+	<!--div class="header">
+		<!--<DIV class=header_1>1111111111</DIV>-->
+		<div class="header_2"><div class="header_2_box">
+				<table width="990" border="0" align="center">
+					<tbody><tr>
+						<td width="666" class="login">
+							<span id="head_loginer"> </span>
+						</td>
+						<td width="314" class="info">
+							<div align="right">
+							</div>
+						</td>
+					</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<h1>丽一社区“蒲公英”关爱网</h1>
+	</div--><!--header 头部 END-->
     <div class=mainnav>
         <UL>
             <LI><A id=nav_index title=首页 href="/">首页</A></LI>
-            <LI class=link_2><A id=nav_gk title=时事平台 href="/category.php?id=1">时事平台</A> </LI>
+            <LI class=link_2><A id=nav_gk title=时事平台 href="/category.php?id=1">思想道德</A> </LI>
             <LI class=link_3><A id=nav_news title=崇德尚礼 href="/category.php?id=3">崇德尚礼</A> </LI>
             <LI class=link_6><A id=nav_jyky title=社会公益 href="/category.php?id=4">社会公益</A> </LI>
             <LI class=link_7><A id=nav_jsyd title=文化传承 href="/category.php?id=5">文化传承</A> </LI>

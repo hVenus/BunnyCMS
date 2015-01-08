@@ -25,4 +25,31 @@ class Category {
         return $category;
     }
 
+    public function myCategoryTree( $id = 0, $l = 1 ){
+        $return = array();
+        $category = $this->db->where('parent', $id)->get("category");
+        foreach($category as $cate){
+            $return[] = array(
+                "id"=>$cate["id"],
+                "category"=>$cate["category"],
+                "level" => $l,
+            );
+            if($this->hasChild($cate["id"])){
+                $child =  $this->myCategoryTree($cate["id"], $l+1 );
+                $return = array_merge($return, $child);
+            }
+        }
+        return $return;
+    }
+
+    public function hasChild($id){
+        $category = $this->db->where('parent', $id)->get("category");
+        if($this->db->count>0){
+            return true;
+        }
+        return false;
+    }
+
+
+
 }
