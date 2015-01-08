@@ -1,0 +1,27 @@
+img,img a{
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.lanrentukubox{margin:0px auto;WIDTH: 441px; HEIGHT:336px; background:url(/images/BB.jpg); padding-left:11px;}
+#newsSlider {POSITION: absolute; WIDTH: 430px; HEIGHT: 280px;  CLEAR: both; padding-top:48px;}
+#newsSlider {POSITION: absolute; WIDTH: 430px; HEIGHT: 280px;  CLEAR: both;}
+
+#newsSlider .container {POSITION: relative; MARGIN-TOP:0px; WIDTH: 430px; HEIGHT: 280px; OVERFLOW: hidden}
+.container img{WIDTH: 430px; HEIGHT: 243px}
+.txt{ width:430px; height:23px; padding-top:14px;text-align:center}
+.txt a{ font-size:14px; color:#FFF;}
+#newsSlider DIV.slides {POSITION: absolute; TOP: 0px; LEFT: 0px}
+#newsSlider UL.slides {POSITION: absolute; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px}
+
+
+
+#newsSlider DIV.slides DIV {POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 584px; PADDING-RIGHT: 0px; DISPLAY: none; TOP: 0px; PADDING-TOP: 0px}
+#newsSlider #loopedSlider {POSITION: relative; MARGIN: 0px auto; WIDTH: 430px; CLEAR: both}
+
+.pagination {POSITION: absolute; BOTTOM: 265px; RIGHT:-5px;}
+.pagination li {TEXT-ALIGN: left; WIDTH:41px; FLOAT:left; HEIGHT: 60px; MARGIN-RIGHT:0px;}
+.pagination li A {TEXT-ALIGN: center; LINE-HEIGHT: 20px; WIDTH:31px; padding-left:10px;BACKGROUND: url(/images/jiao_blue.jpg) no-repeat 0px 7px; FLOAT: left; HEIGHT: 22px; COLOR: #000000; FONT-SIZE: 14px; FONT-WEIGHT: normal; MARGIN-RIGHT:0px; TEXT-DECORATION: none; PADDING-TOP: 13px}
+
+.pagination li.active A {TEXT-ALIGN: center; LINE-HEIGHT: 20px; WIDTH:31px; padding-left:10px;FONT-FAMILY: ""; BACKGROUND:url(/images/jiao_green.jpg) no-repeat right bottom; FLOAT: left; HEIGHT:26px; COLOR: #ffffff; FONT-SIZE: 14px; FONT-WEIGHT: normal; MARGIN-RIGHT:0px; TEXT-DECORATION: none; PADDING-TOP:9px;}
+
+
+.link_tu{POSITION: absolute;BOTTOM: 290px; RIGHT:210px; width:220px; height:30px;display:block;}

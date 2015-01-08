@@ -1,0 +1,133 @@
+.footlay {
+	width:1004px;
+	height:503px;
+	margin:0 auto;
+	background:url(/images/footbj.jpg);
+}
+.menulink {
+	width:370px;
+	height:80px;
+	margin:40px 0 0 40px;
+	float:left;
+	display:block;
+	cursor:pointer;
+	display:inline;
+}
+.webmap {
+	width:560px;
+	height:30px;
+	float:left;
+	margin-top:80px;
+}
+.webmap ul {
+	width:560px;
+	float:left;
+}
+.webmap li {
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.webmap li a:link {
+	font-size:16px;
+	font-weight:bold;
+	color:#2a550a;
+	padding:5px 6px;
+	line-height:30px;
+}
+.webmap li a:visited {
+	font-size:16px;
+	font-weight:bold;
+	color:#2a550a;
+	padding:5px 6px;
+	line-height:30px;
+}
+.webmap li a:hover {
+	font-size:16px;
+	font-weight:bold;
+	color:#ffffff;
+	padding:5px 6px;
+	line-height:30px;
+	background:#2a550a;
+}
+.footct {
+	width:924px;
+	float:left;
+	margin-left:40px;
+	display:inline;
+}
+.schoollink {
+	float:left;
+	width:320px;
+	height:45px;
+}
+.friendlink {
+	float:left;
+	width:320px;
+	height:40px;
+	margin-top:10px;
+}
+.linklay ul {
+	width:924px;
+	height:60px;
+	float:left;
+	overflow:hidden;
+}
+.linklay2 ul {
+	width:924px;
+	overflow:hidden;
+}
+.linklay li,.linklay2 li {
+	float:left;
+	font-size:12px;
+	line-height:24px;
+	padding-right:10px;
+	white-space:nowrap;
+}
+.linklay li a:link,.linklay2 li a:link {
+	float:left;
+	color:#2a550a;
+	display:block;
+	padding:0 2px;
+}
+.linklay li a:visited,.linklay2 li a:visited {
+	color:#2a550a;
+	float:left;
+	display:block;
+	padding:0 2px;
+}
+.linklay li a:hover,.linklay2 li a:hover {
+	float:left;
+	color:#ffffff;
+	background:#2a550a;
+	display:block;
+	padding:0 2px;
+}
+.banquan {
+	width:924px;
+	text-align:center;
+	float:left;
+	margin-top:10px;
+	color:#546a39;
+	font-weight:bold;
+	line-height:24px;
+	font-size:12px;
+}
+.banquan a:link {
+	color:#546a39;
+	font-weight:bold;
+	line-height:24px;
+	font-size:12px;
+}
+.banquan a:visited {
+	color:#546a39;
+	font-weight:bold;
+	line-height:24px;
+	font-size:12px;
+}
+.banquan a:hover {
+	color:#546a39;
+	font-weight:bold;
+	line-height:24px;
+	font-size:12px;
+	text-decoration:underline;
+}
