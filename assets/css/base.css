@@ -236,7 +236,7 @@ H1 {
 	DISPLAY: none
 }
 .header {
-	HEIGHT: 155px
+	HEIGHT: 119px
 }
 .header_1 {
 	POSITION: relative; BACKGROUND: url(/images/header_1.jpg) no-repeat center top; HEIGHT: 155px
@@ -254,7 +254,7 @@ H1 {
 	MARGIN: 0px auto; WIDTH: 966px
 }
 .header_2 {
-	/*BACKGROUND: url(/images/header_2.jpg) no-repeat center top; HEIGHT: 155px*/
+	BACKGROUND: url(/images/head_bg.png) no-repeat center top; HEIGHT: 119px
 }
 .header_2_box {
 	/*BACKGROUND: url(/images/header_2.jpg) no-repeat center top; HEIGHT: 155px*/
@@ -296,7 +296,7 @@ H1 {
 	MARGIN: 0px 8px; COLOR: #347389
 }
 .wrapper {
-	ZOOM: 1; BACKGROUND: url(/images/bg_main.jpg) no-repeat center 0px; OVERFLOW: hidden
+	ZOOM: 1; BACKGROUND: url(/images/bg_main.jpg) no-repeat center 119px; OVERFLOW: hidden
 }
 .nrbox {
 	BORDER-BOTTOM-COLOR: #e1e1e1; BORDER-LEFT: #e1e1e1 1px solid; WIDTH: 670px; BORDER-BOTTOM-WIDTH: 1px; OVERFLOW: visible; BORDER-TOP: #e1e1e1 1px solid; BORDER-RIGHT: #e1e1e1 1px solid; _overflow: hidden; -moz-border-radius-topleft: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px

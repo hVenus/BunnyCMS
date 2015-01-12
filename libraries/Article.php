@@ -49,4 +49,38 @@ class Article {
         return $count;
     }
 
+    public function getImageArticle($category=0, $per=10){
+        $result = array();
+        if($category!=0){
+            $this->db->where("category", $category);
+        }
+        $list = $this->db->orderBy("id", "desc")->get("article");
+        $i = 0;
+        foreach($list as $l){
+            if($i>=10){
+                break;
+            }
+            $image = Article::getImage($l["content"]);
+            if($image!==false){
+                $l["image"] = $image;
+                $result[] = $l;
+            }
+            $i++;
+        }
+        return $result;
+    }
+
+    public static function getImage($article){
+        $image = false;
+        preg_match_all("/<img(.*)src=\"([^\"]+)\"[^>]+>/isU", $article, $matches);
+        if(!empty($matches[2])){
+            $image = $matches[2][0];
+            if($image !== false){
+                $image = $matches[2][0];
+            }
+        }
+        return $image;
+
+    }
+
 }

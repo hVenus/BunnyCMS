@@ -108,8 +108,7 @@ $shbk = $article->getArticleByCategory($in, 17);
 
 <BODY>
 <div class=wrapper>
-	<!--div class="header">
-		<!--<DIV class=header_1>1111111111</DIV>-->
+	<div class="header">
 		<div class="header_2"><div class="header_2_box">
 				<table width="990" border="0" align="center">
 					<tbody><tr>
@@ -125,8 +124,8 @@ $shbk = $article->getArticleByCategory($in, 17);
 				</table>
 			</div>
 		</div>
-		<h1>丽一社区“蒲公英”关爱网</h1>
-	</div--><!--header 头部 END-->
+		<h1>丽华一村社区“蒲公英”关爱协会</h1>
+	</div><!--header 头部 END-->
     <div class=mainnav>
         <UL>
             <LI><A id=nav_index title=首页 href="/">首页</A></LI>
@@ -187,22 +186,7 @@ $shbk = $article->getArticleByCategory($in, 17);
                     </div>
                     <div class=box_hot>
                         <div class=scrollbox>
-                            <link rel='stylesheet' type='text/css' href='/assets/css/rollpic.css'>
-                            <script type='text/javascript' src='/assets/js/jquery-1.2.6.min.js'></script>
-                            <SCRIPT type='text/javascript'>
-                                $(function() {
-                                    $('#rollpicobjr1inu')
-                                        .after('<div id=pagerr1inu class=pager>')
-                                        .cycle({
-                                            fx:     'scrollLeft',
-                                            speed:   500,
-                                            timeout: 3000,
-                                            pause:   1,
-                                            pager:  '#pagerr1inu'
-                                        });
-                                });
-                            </SCRIPT>
-                            <div class='rollpicTB' style='width:260px;FLOAT: left;TEXT-ALIGN: center;'><div id='rollpicobjr1inu' class='rollpicobj' style='HEIGHT:195px;'><P><A title='红十字会总会客岁三' href='http://www.qsnhdw.com/JiaoYu/s3979.html' target=_blank><IMG style='HEIGHT:165px;' alt='红十字会总会客岁三' src='http://kids.youth.cn/xinli/zx/./201107/./W020110720353410624452.jpg'></A><A title='红十字会总会客岁三' href='http://www.qsnhdw.com/JiaoYu/s3979.html' target='_blank'>红十字会总会客岁三</A></P><P><A title='文化部部长蔡武：艺' href='http://www.qsnhdw.com/JiaoYu/s3978.html' target=_blank><IMG style='HEIGHT:165px;' alt='文化部部长蔡武：艺' src='http://kids.youth.cn/xinli/zx/./201107/./W020110720340555786167.jpg'></A><A title='文化部部长蔡武：艺' href='http://www.qsnhdw.com/JiaoYu/s3978.html' target='_blank'>文化部部长蔡武：艺</A></P><P><A title='南京主城区降特大暴' href='http://www.qsnhdw.com/JiaoYu/s3974.html' target=_blank><IMG style='HEIGHT:165px;' alt='南京主城区降特大暴' src='http://kids.youth.cn/xinli/zx/./201107/./W020110719459459616143.jpg'></A><A title='南京主城区降特大暴' href='http://www.qsnhdw.com/JiaoYu/s3974.html' target='_blank'>南京主城区降特大暴</A></P><P><A title='贫穷女生初中起始打' href='http://www.qsnhdw.com/JiaoYu/s3973.html' target=_blank><IMG style='HEIGHT:165px;' alt='贫穷女生初中起始打' src='http://kids.youth.cn/xinli/zx/./201107/./W020110719385537921066.jpg'></A><A title='贫穷女生初中起始打' href='http://www.qsnhdw.com/JiaoYu/s3973.html' target='_blank'>贫穷女生初中起始打</A></P><P><A title='红学研讨或将有重大' href='http://www.qsnhdw.com/JiaoYu/s3970.html' target=_blank><IMG style='HEIGHT:165px;' alt='红学研讨或将有重大' src='http://kids.youth.cn/xinli/zx/./201107/./W020110718608955781388.jpg'></A><A title='红学研讨或将有重大' href='http://www.qsnhdw.com/JiaoYu/s3970.html' target='_blank'>红学研讨或将有重大</A></P></div></div>
+						<?php include(PATH_BASE."/module/image_scroll/index.php"); ?>
                         </div>
                         <!--scrollbox  END-->
                         <div class=box_hot_R>
@@ -259,28 +243,7 @@ $shbk = $article->getArticleByCategory($in, 17);
                             <H2>活动图片</H2>
 							<A class=more title="" href="http://www.qsnhdw.com/MingShi/" target=_blank>更多</A></div>
                         <UL class="video_list video_list_big">
-                            <table width='100%' border='0' cellspacing='0' cellpadding='0'>
-								<tr>
-									<td width=25%><div style="float:left;margin-left:5px;margin-top:4px;">
-                                            <p class=img>
-												<a style="display:block;width:160px;height:120px;border:solid #ccc 2px;" href="http://www.qsnhdw.com/MingShi/s3275.html" target="_blank">
-													<img style="width:160px;height:120px;border:1px solid #fff;" src="http://kids.youth.cn/wskt/msmx/./201103/./W020110328417920250391.jpg" border="0">
-												</a>
-											</p>
-                                            <p class=title style="text-align:center;"><A HREF="http://www.qsnhdw.com/MingShi/s3275.html" title='钱学森青少年航天科学院昨设立' target="_blank">钱学森青少年航天科</A></p>
-                                        </div></td><td width=25%><div style="float:left;margin-left:5px;margin-top:4px;">
-                                            <p class=img><a style="display:block;width:160px;height:120px;border:solid #ccc 2px;" href="http://www.qsnhdw.com/MingShi/s3268.html" target="_blank"><img style="width:160px;height:120px;border:1px solid #fff;" src="http://kids.youth.cn/wskt/msmx/./201103/./W020110322334326813253.jpg" border="0"></a></p>
-                                            <p class=title style="text-align:center;"><A HREF="http://www.qsnhdw.com/MingShi/s3268.html" title='湖北宜昌举办中小学教师巴山舞培训' target="_blank">湖北宜昌举办中小学</A></p>
-                                        </div></td><td width=25%><div style="float:left;margin-left:5px;margin-top:4px;">
-                                            <p class=img><a style="display:block;width:160px;height:120px;border:solid #ccc 2px;" href="http://www.qsnhdw.com/MingShi/s3264.html" target="_blank"><img style="width:160px;height:120px;border:1px solid #fff;" src="http://kids.youth.cn/wskt/msmx/./201103/./W020110321347627520641.jpg" border="0"></a></p>
-                                            <p class=title style="text-align:center;"><A HREF="http://www.qsnhdw.com/MingShi/s3264.html" title='74岁老教师寻梦“哥德巴赫猜测”' target="_blank">74岁老教师寻梦“哥</A></p>
-                                        </div></td><td width=25%><div style="float:left;margin-left:5px;margin-top:4px;">
-                                            <p class=img><a style="display:block;width:160px;height:120px;border:solid #ccc 2px;" href="http://www.qsnhdw.com/MingShi/s3262.html" target="_blank"><img style="width:160px;height:120px;border:1px solid #fff;" src="http://kids.youth.cn/wskt/msmx/./201103/./W020110321323048991738.jpg" border="0"></a></p>
-                                            <p class=title style="text-align:center;"><A HREF="http://www.qsnhdw.com/MingShi/s3262.html" title='南江中学今年小升初招生320人' target="_blank">南江中学今年小升初</A></p>
-                                        </div>
-									</td>
-								</tr>
-							</table>
+							<?php include(PATH_BASE."/module/event_photo/index.php"); ?>
                         </UL>
 					</div>
                     <div class=box_bottom></div>

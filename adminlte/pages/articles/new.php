@@ -376,7 +376,7 @@ $c = $category->myCategoryTree();
                                 <div class="form-group">
                                     <label>发布时间</label>
                                     <div class="row">
-                                        <div class="col-md-2">
+                                        <div class="col-md-3">
                                             <div class="input-group">
                                                 <div class="input-group-addon">
                                                     <i class="fa fa-calendar"></i>
