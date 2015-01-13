@@ -33,7 +33,7 @@
         <UL>
             <LI><A id=nav_index title=首页 href="/">首页</A>
             </LI>
-            <LI class=link_2><A id=nav_gk title=时事平台 href="http://www.qsnhdw.com/XiaoYuan/">时事平台</A> </LI>
+            <LI class=link_2><A id=nav_gk title=道德建设 href="http://www.qsnhdw.com/XiaoYuan/">道德建设</A> </LI>
             <LI class=link_3><A id=nav_news title=崇德尚礼 href="http://www.qsnhdw.com/JiaoYu/">崇德尚礼</A> </LI>
             <LI class=link_6><A id=nav_jyky title=社会公益 href="http://www.qsnhdw.com/RenWu/">社会公益</A> </LI>
             <LI class=link_7><A id=nav_jsyd title=文化传承 href="http://www.qsnhdw.com/QuW/">文化传承</A> </LI>
